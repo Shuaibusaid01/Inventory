@@ -1,0 +1,254 @@
+C:\Users\mka\Desktop\pos\POS\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos04\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos04\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos04\obj\Debug\RdlCompile.cache
+C:\Users\mka\Desktop\pos04\obj\Debug\RdlCompile.compiled
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos05\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos05\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos05\obj\Debug\RdlCompile.cache
+C:\Users\mka\Desktop\pos05\obj\Debug\RdlCompile.compiled
+C:\Users\mka\Desktop\pos06\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos06\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos06\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos06\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos06\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos06\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos06\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos06\obj\Debug\RdlCompile.cache
+C:\Users\mka\Desktop\pos06\obj\Debug\RdlCompile.compiled
+C:\Users\mka\Desktop\pos08\pos08\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos08\pos08\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos08\pos08\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos08\pos08\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos08\pos08\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\RdlCompile.cache
+C:\Users\mka\Desktop\pos08\pos08\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\bin\Debug\POS.exe.config
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\bin\Debug\db.accdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\bin\Debug\POS.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\bin\Debug\POS.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\bin\Debug\POS.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.AddItem.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.ChangePassword.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.EditItem.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.Login.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.MainWindow.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.PasswordPicker.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.Sales.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\RdlCompile.cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.exe.config
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.AddItem.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.ChangePassword.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.EditItem.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Login.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.MainWindow.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.PasswordPicker.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Sales.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\db.accdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.StaffReg.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Users.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Splash.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Sold.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Slip.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Salesby.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Edit.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Search.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\db.accdb
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\POS.exe.config
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\POS.exe
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\POS.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\POS.xml
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\bin\Debug\stdole.dll
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.vbproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.AddItem.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.ChangePassword.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Edit.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.EditItem.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Login.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.MainWindow.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.PasswordPicker.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Sales.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Salesby.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Search.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Slip.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Sold.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Splash.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.StaffReg.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Users.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.vbproj.GenerateResource.cache
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.vbproj.Up2Date
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.exe
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.xml
+C:\Users\Dell\Documents\Visual Studio 2010\SaleSys\obj\Debug\POS.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\db.accdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.exe.config
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.exe
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\POS.xml
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\bin\Debug\stdole.dll
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.vbproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.AddItem.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.ChangePassword.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Edit.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.EditItem.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Login.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.MainWindow.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.PasswordPicker.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Sales.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Salesby.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Search.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Slip.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Sold.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Splash.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.StaffReg.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Users.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.vbproj.GenerateResource.cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.vbproj.Up2Date
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.exe
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.xml
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\SaleSys\obj\Debug\POS.pdb
