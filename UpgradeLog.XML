@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="POS">
+</Property><Property Name="Solution File" Value="C:\Users\HP\Documents\Visual Studio 2010\Projects\pos08\POS.sln">
+</Property><Property Name="Date" Value="Monday, May 16, 2016">
+</Property><Property Name="Time" Value="23:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="POS" Source="POS.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="POS" Source="POS.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="POS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="POS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="POS" Source="POS.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

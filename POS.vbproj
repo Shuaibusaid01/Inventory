@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{618BC9E2-619A-4F83-BD33-F61B07267919}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>POS.My.MyApplication</StartupObject>
+    <RootNamespace>POS</RootNamespace>
+    <AssemblyName>POS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>POS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>POS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackupRestoreModule.vb" />
+    <Compile Include="GUI\AddItem.Designer.vb">
+      <DependentUpon>AddItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AddItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Edit.Designer.vb">
+      <DependentUpon>Edit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EditItem.Designer.vb">
+      <DependentUpon>EditItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EditItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainWindow.Designer.vb">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PasswordPicker.Designer.vb">
+      <DependentUpon>PasswordPicker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PasswordPicker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Sales.Designer.vb">
+      <DependentUpon>Sales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Sales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Salesby.Designer.vb">
+      <DependentUpon>Salesby.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Salesby.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Search.designer.vb">
+      <DependentUpon>Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Slip.Designer.vb">
+      <DependentUpon>Slip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Slip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Sold.Designer.vb">
+      <DependentUpon>Sold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Sold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\StaffReg.Designer.vb">
+      <DependentUpon>StaffReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\StaffReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Users.Designer.vb">
+      <DependentUpon>Users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="POSDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>POSDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Recept.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Recept.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Reciept.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reciept.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RepSales.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepSales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUI\AddItem.resx">
+      <DependentUpon>AddItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Edit.resx">
+      <DependentUpon>Edit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EditItem.resx">
+      <DependentUpon>EditItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainWindow.resx">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PasswordPicker.resx">
+      <DependentUpon>PasswordPicker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Sales.resx">
+      <DependentUpon>Sales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Salesby.resx">
+      <DependentUpon>Salesby.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Search.resx">
+      <DependentUpon>Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Slip.resx">
+      <DependentUpon>Slip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Sold.resx">
+      <DependentUpon>Sold.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\StaffReg.resx">
+      <DependentUpon>StaffReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Users.resx">
+      <DependentUpon>Users.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Reciept.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reciept.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RepSales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepSales.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="POSDS.xsc">
+      <DependentUpon>POSDS.xsd</DependentUpon>
+    </None>
+    <None Include="POSDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>POSDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="POSDS.xss">
+      <DependentUpon>POSDS.xsd</DependentUpon>
+    </None>
+    <None Include="Recept.xsc">
+      <DependentUpon>Recept.xsd</DependentUpon>
+    </None>
+    <None Include="Recept.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Recept.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Recept.xss">
+      <DependentUpon>Recept.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="db.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\hff.jpg" />
+    <None Include="Resources\FastFood1.ico" />
+    <None Include="Resources\fastfood.ico" />
+    <None Include="Resources\pepper chicken.png" />
+    <None Include="Resources\onion.png" />
+    <None Include="Resources\Fast Food.ico" />
+    <None Include="Resources\chips.png" />
+    <None Include="Resources\black olive.png" />
+    <None Include="Resources\beef shawarma.png" />
+    <None Include="Resources\beef burger.png" />
+    <None Include="Resources\plantain.png" />
+    <None Include="Resources\1.ico" />
+    <None Include="Resources\4.gif" />
+    <None Include="Resources\19.gif" />
+    <None Include="Resources\21.gif" />
+    <None Include="Resources\a bird that does not fly will not eat.gif" />
+    <None Include="Resources\Add 1.jpg" />
+    <None Include="Resources\addon.ico" />
+    <None Include="Resources\Camera.png" />
+    <None Include="Resources\canstockphoto1741841_comp%281%29.jpg" />
+    <None Include="Resources\canstockphoto1741841_comp.jpg" />
+    <None Include="Resources\canstockphoto1741856_comp.jpg" />
+    <None Include="Resources\canstockphoto3305704_comp.jpg" />
+    <None Include="Resources\checks1.png" />
+    <None Include="Resources\Chrysanthemum.jpg" />
+    <None Include="Resources\dance.gif" />
+    <None Include="Resources\Delete 2.jpg" />
+    <None Include="Resources\Delete 5.jpg" />
+    <None Include="Resources\edit.ico" />
+    <None Include="Resources\Find 3.jpg" />
+    <None Include="Resources\images - Copy.jpg" />
+    <None Include="Resources\images%2801%29.jpg" />
+    <None Include="Resources\images%2802%29.jpg" />
+    <None Include="Resources\images%2803%29.jpg" />
+    <None Include="Resources\images%2804%29.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\Important Files.ico" />
+    <None Include="Resources\INFO.ICO" />
+    <None Include="Resources\Kroger_Pharmacy - Copy.gif" />
+    <None Include="Resources\Kroger_Pharmacy.gif" />
+    <None Include="Resources\medicinehj.gif" />
+    <None Include="Resources\medicsine.gif" />
+    <None Include="Resources\oAccess.ico" />
+    <None Include="Resources\payroll_01.gif" />
+    <None Include="Resources\payroll_03.gif" />
+    <None Include="Resources\pharmacy.gif" />
+    <None Include="Resources\pharmacy_LED_sign.jpg" />
+    <None Include="Resources\Print.jpg" />
+    <None Include="Resources\Recycle Bin Empty.ico" />
+    <None Include="Resources\Reports.ico" />
+    <None Include="Resources\Reports2.ico" />
+    <None Include="Resources\Save_.png" />
+    <None Include="Resources\Users.ico" />
+    <None Include="Resources\users2.ico" />
+    <None Include="Resources\lena256.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
